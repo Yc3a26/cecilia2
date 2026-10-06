@@ -242,7 +242,7 @@ function toEmbedUrl(url) {
 }
 
 async function fetchJSON(path) {
-  const res = await fetch(path);
+  const res = await fetch(`${path}?_=${Date.now()}`, { cache: "no-store" });
   if (!res.ok) throw new Error(`Failed to fetch ${path}`);
   return res.json();
 }

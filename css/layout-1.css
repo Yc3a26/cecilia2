@@ -1,0 +1,53 @@
+/* this selector affects the base html element in the document hierarchy */
+html {
+  
+  background-color: white;  /* this attribute updates the background colour */
+}
+
+body {
+
+  font: 1.2em / 1.5 system-ui; /* this attribute changes the font */
+  padding: 20px; /* this attribute adds padding to the element */
+  width: 500px; /* this attribute changes how wide the element can be in a window */
+  background-color: #efefef;
+  margin: 0 auto; /* used similarly to padding */
+}
+
+/* this selector will affect every h1 heading element, the largest size */
+h1 {
+  color: darkslategray; /* this attribute changes the colour of the text inside the element */
+  border-bottom: 10px dotted purple; /* this attribute lets us draw a border around it */
+  font-size: 2rem;
+}
+
+h2 {
+  font-style: italic; /* font options */
+  font-size: 1.5rem; /* font options */
+}
+
+/* this selector uses a class to apply the styling to a specific element on the page */
+.job-title {
+  color: darkslategray;
+  font-weight: bold; /* font options */
+}
+
+/* this is a list element */
+ul {
+  background-color: white;
+  border: 5px solid purple;
+  padding: 30px;
+  border-radius: 20px; /* this lets us make the corners of an element rounded, instead of square. change the value to see the effect change! */
+  
+}
+
+/* this is a link element */
+a {
+  color: green;
+}
+
+/* these tags let us change the way an element looks based on a user action. The hover selector is active when the user's cursor is hovering over the element */
+a:hover,
+a:focus {
+  color: darkgreen;
+  text-decoration: none;
+}

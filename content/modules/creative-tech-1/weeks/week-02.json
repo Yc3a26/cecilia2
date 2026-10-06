@@ -1,13 +1,17 @@
 {
-  "week": 2,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
   "method": "",
-  "results_discussion": "",
+  "related_work": "This week, I started making the drawings for my Project 0.\nI chose an electric toothbrush as my object. I want to take the toothbrush apart and show the audience what is inside it. I also want to introduce the different parts and their information, so people can understand the object better.\nI also looked for some papers and information about electric toothbrushes. This helped me learn more about where the different parts come from and other information about the object.\nI also made a mood board and found some images that I like. I will use these images as references for my project.",
+  "references": "1.Brushing off responsibility: How electric toothbrushes are quietly fueling the e-waste crisis.  https://waste-management-world.com/resource-use/brushing-off-responsibility-how-electric-toothbrushes-are-quietly-fueling-the-e-waste-crisis/\n2.Waste reforms call as UK faces ‘epidemic’ of battery fires. https://www.batteriesinternational.com/news/waste-reforms-call-as-uk-faces-epidemic-of-battery-fires/\n3.Plastics: All around us and inside us.  https://phys.org/news/2025-08-plastics.html\n4.Lyne, A. et al. (2020) “Combining evidence-based healthcare with environmental sustainability: using the toothbrush as a model.,” British dental journal, 229(5), pp. 303–309. Available at: https://doi.org/10.1038/s41415-020-1981-0.\n5.Fang, C. et al. (2023) “Raman imaging to identify microplastics released from toothbrushes: algorithms and particle analysis,” Environmental Pollution, 337. Available at: https://doi.org/10.1016/j.envpol.2023.122510.\n6.Won, Y.L. et al. (2025) “Occupational exposure to nickel and cobalt and health symptoms among lithium-ion battery workers in Korea.,” International archives of occupational and environmental health, 98(9-10), pp. 849–857. Available at: https://doi.org/10.1007/s00420-025-02172-5.\n7.Öztürk Aytulun, Ç. et al. (2025) “Preliminary results on microplastic release from commercial toothbrushes during simulated brushing,” Microchemical Journal, 216. Available at: https://doi.org/10.1016/j.microc.2025.114680.                 \n8. Mossali, E. et al. (2020) “Lithium-ion batteries towards circular economy: A literature review of opportunities and issues of recycling treatments,” Journal of Environmental Management, 264. Available at: https://doi.org/10.1016/j.jenvman.2020.110500.",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-10-05T00:24:00.000+01:00",
+  "results_discussion": "One thing that surprised me about my Project 0 is that an electric toothbrush looks like a simple object, but it actually has many different materials, parts and production processes. After we use it, it is also not as simple as just throwing it away, because it contains batteries, plastic parts and other materials. I also found that some people can be harmed during the production process. These problems may not happen immediately, which made me think more about the hidden people and processes behind an everyday object.\nIn the tutorial class, we continued learning how to make a website. I still find it quite difficult, but Alice explained everything very carefully. She also showed us some examples that we could use as references and learn from.",
+  "week": 2,
+  "title": "week 2 in creative_tech_1",
+  "images": [
+    "assets/images/img_1990.jpg",
+    "assets/images/img_1989.jpg",
+    "assets/images/参考.jpg"
+  ],
+  "introduction": "This week, I learned more about websites and technology.\nWe talked about how software can change the way we work. I learned that tools can help us, but they can also change the way we think and make things. We also learned about the internet, such as data, servers and clients. We started learning about HTML, CSS and JavaScript. I learned that HTML is the structure of a website, CSS is for the style, and JavaScript is for making the website interactive. We also read  papers and looked at some examples. Then, we used the Tech Cards to think about our Project 0. We chose cards and thought about how the ideas on the cards could change our project or give us new ideas.\nFor my Project 0, I chose an electric toothbrush. I want to show information about its different parts, such as the brush head, case, motor and battery. The Tech Cards helped me think about my project in a different way. I started to think about how I could make the website more interesting and interactive, instead of only clicking on each part. \nIt was also very interesting that Sam showed us some of his work. It made me more interested in this project and gave me more ideas to think about.\n",
+  "video": ""
 }

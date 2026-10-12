@@ -1,13 +1,17 @@
 {
+  "method": "I made a sprite sheet for my electric toothbrush project, placing each frame in an equally sized space. Following the classroom tutorial, I used VS Code to write the animation code and tested how the frames played on my webpage.",
+  "related_work": "This week, I drew inspiration from Solwata, The World Came Flooding In, and our classroom tutorial on sprite animation. We made sprite sheets and learned to animate them with code. My classmates also shared their mood boards and project ideas. Their choices of colours, styles, and interactions helped me think about how to develop my own electric toothbrush website.",
+  "references": "",
+  "conclusion_future_work": "I will continue improving my website. At the moment, it uses basic code, so I want to explore more visually appealing and expressive ways to present my ideas. I hope to develop the animations and interactions to make the website more interesting and encourage visitors to explore its content.",
+  "date": "2026-10-12T20:28:00.000+01:00",
+  "results_discussion": "This week, I learned how to use CSS to animate a sprite sheet for my electric toothbrush website. This helped me understand how separate images can work together to create movement. The visit to BFI Expanded also gave me inspiration. My favourite work was The World Came Flooding In because both its visual experience and its story interested me. It made me think about how an interactive artwork can communicate ideas through an experience. Seeing my classmates’ mood boards and hearing their plans also helped me consider different visual styles. My next challenge is to connect the animation with information about the toothbrush, so that movement helps visitors discover something rather than simply decorating the page.",
   "week": 3,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "week 3 in CT coding",
+  "images": [
+    "assets/images/img_2718.heic",
+    "assets/images/img_2738.heic",
+    "assets/images/截屏2026-10-12-21.03.20.png"
+  ],
+  "introduction": "This week, we continued learning to build websites in VS Code. We also visited BFI Expanded in London and experienced two VR artworks. My favourite was The World Came Flooding In because of its visuals and story. ",
+  "video": ""
 }

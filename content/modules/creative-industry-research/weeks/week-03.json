@@ -1,13 +1,16 @@
 {
+  "method": "I use my experience of the two artworks as the starting point, focusing on interaction, objects and storytelling. I connect these observations with the classroom’s book introduction and consider how visitors could discover information through the parts of my toothbrush(project 0).",
+  "related_work": "I focus on Solwata and The World Came Flooding In, two works I experienced at BFI Expanded. Both connect immersive technology with stories about water, communities and home. The classroom material on Hardware and Eco-Feminist Art offers another perspective, encouraging me to consider where electronic materials come from and how technology affects people and the environment.",
+  "references": "",
+  "conclusion_future_work": "The main aim of the book\nThe book looks at how to make technology that causes less harm to people and the environment. It also wants more people, including women, to have a chance to take part in making technology.\nHow does the project work towards this aim?\nThe project studies where materials come from and tries different ways to make electronic parts. For example, it uses clay to make circuit boards and reuses old materials. It also runs workshops and shares instructions, so people can learn from each other.\n\nAcupuncture Sonification：\nAcupuncture Sonification is an art project that uses the body to make sound. The idea comes from devices used to find acupuncture points on the skin. A small sensor measures changes in the skin. Another part of the device turns this data into sound. When the data changes, the sound can become higher or lower. No needles are used. People can listen to the sounds and explore how the body, sound and technology work together.\n\nFeminist Hacking：\nFeminist hacking is a way to learn about and change technology. It can include taking devices apart and making new things from old parts. It supports women and other people who are often left out of technology. It also asks who makes the devices, whether workers are treated fairly, where materials come from, and how making these devices affects the environment.\n\nChthulucene：\nChthulucene is an idea about sharing the Earth with other living things. People, animals and plants all need each other. People are part of nature. What we do can help or hurt other life. Changes in nature can also affect us. This idea asks us to care for other living things and learn how to live together on an Earth that has many problems.",
+  "date": "2026-10-12T21:22:00.000+01:00",
+  "results_discussion": "The World Came Flooding In interested me most because its story was as engaging as its visual presentation. I could explore from a first-person perspective and listen to stories connected to objects in the home. This made the objects feel meaningful: they were connected to people’s memories rather than simply filling the virtual space.",
   "week": 3,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "week 3 in IR",
+  "images": [
+    "assets/images/img_2738.jpg",
+    "assets/images/img_2742.jpg"
+  ],
+  "introduction": "This week’s visit to BFI Expanded made me think about how ordinary objects can carry stories. I experienced Solwata and The World Came Flooding In. In this reflection, I explore how interaction helps audiences discover hidden meanings, and how this could inform the design of my electric toothbrush website.",
+  "video": ""
 }

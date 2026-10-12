@@ -8,6 +8,13 @@
         "assets/images/像素图.jpg"
       ],
       "description": "In my Project 0, I pick an electric toothbrush as my everyday object for research and design.\nI do not want to simply tell viewers whether the electric toothbrush is “good” or “bad”. Instead, I make an interactive web page for viewers to find its hidden different sides by themselves.\nAt the start, the web page shows a common electric toothbrush and asks users to “brush teeth” with it.\nAs users explore, they can take the toothbrush apart little by little. They will see different parts: brush head, motor, battery, circuit board and plastic shell.\nEach part shows its useful side. At the same time, it shows hidden problems behind it, such as raw materials, micro‑plastic pellets, battery troubles and electronic waste.\nI use questions, animations and simple interactive choices, instead of giving one fixed answer. I want to guide viewers to think about the links between convenience, health, technology and environmental influence.\nIn the end, I hope viewers understand: an electric toothbrush is not just a simple daily thing. It is a small electronic product with many different materials and electronic parts, and it has a complex life cycle."
+    },
+    {
+      "title": "Project 0 final",
+      "description": "This week, I started building the website for my project. I drew sprite sheets to make some small animations. I also looked for sources related to my topic to support my ideas with evidence.In the tutorial, Alice taught us how to turn sprite sheets into animations. This was very useful for my Project 0, and I used this method to add animations to my website. After following the teacher’s tutorial, I began to understand how the code worked. I also used the basic website skills that Alice had taught us earlier and applied them to my project.",
+      "images": [
+        "assets/images/截屏2026-10-12-21.03.20.png"
+      ]
     }
   ]
 }

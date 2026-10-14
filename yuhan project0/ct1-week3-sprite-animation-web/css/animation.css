@@ -1,0 +1,70 @@
+#sprite {
+
+    width:358.43px;
+    height:254px;
+    object-fit: cover;
+    animation: 34s steps(7, jump-none) my-animation infinite;
+}
+
+@keyframes my-animation {
+    from {
+        object-position: 0% 0%;
+    }
+
+
+    to {
+    object-position: 100% 0%;
+    }
+
+}
+#image-container{
+    position: relative;
+    width: 100vw !important;
+    height: 100vh !important;
+}
+#animation-stage{
+    position: relative;
+    width: 358.43px;
+    height: 254px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(4.2, 3.8);
+    transform-origin: center center;
+    overflow: hidden;
+}
+#brush {
+    position: absolute;
+    width: 500px;
+    left: 65px;
+    top: 115px;
+    z-index: 2;
+    animation: brush-move 0.5s infinite alternate;
+}
+.controls {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 10;
+}
+@keyframes brush-move {
+    from {
+        transform: translate(-6px, 0);
+    }
+    to {
+        transform: translate(6px, 0);
+    }
+}
+#sprite {
+    animation-play-state: paused;
+}
+#brush {
+    animation-play-state: paused;
+}
+#Next{
+    position: fixed;
+    bottom: 5px;
+    right: 20px;
+    z-index: 10;
+    color: #191919;
+    font-size: 30px;
+}

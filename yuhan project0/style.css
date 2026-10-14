@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  position: relative
+}
+#background {
+  display:block;
+  width: 100%;
+  height: auto;
+}
+#cup {
+  position:absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  pointer-events: none;
+}
+#toothbrush {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  z-index: 1;
+}
+#background,
+#cup,
+#toothbrush {
+  image-rendering: pixelated;
+}
+#scene {
+  position: relative;
+  height: 100dvh;
+  overflow: hidden;
+}
+#background,
+#cup,
+#toothbrush {
+  transform: translateY(-150px);
+}
+#scene-title {
+  position: absolute;
+  top: 130px;
+  right: 100px;
+  left: 300px;
+  margin: 0;
+  z-index: 3;
+  font-family: 'Chalkduster', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: #515151;
+}
+#back-home {
+  color: rgb(242, 245, 248);
+}

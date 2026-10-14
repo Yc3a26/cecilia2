@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sprite Animation</title>
+    <link rel="stylesheet" href="css/body.css" />
+    <link rel="stylesheet" href="css/animation.css" />
+    <script src="js/controls.js" defer></script>
+    <script src="js/animationTrigger.js" defer></script>
+  </head>
+  <body>
+    <section id="intro">
+    <h1> Can an electric toothbrush clean better?</h1>
+
+    <p>
+      A 2014 systematic review of 56 studies found that electric toothbrushes reduced plaque by 21% and gingivitis by 11%
+      after more than three months, compared with manual brushing. 
+    </p>
+    <p>
+      Source:
+      Yaacob, M. et al. (2014)
+      <a href="https://doi.org/10.1002/14651858.CD002281.pub3.">
+        View the paper
+      </a>
+    </p>
+  </section>
+  <a id="Next" href="../inside.html">Let's see how it works!</a>
+
+    <div id="main">
+      <div id="image-container">
+
+      <div id="animation-stage">
+        <img id="sprite" src="images/tooth all.png" />
+        <img id="brush" src="images/toothbrush1.png" alt="cecxtric toothbrush" />
+      </div>
+        <div class="controls">
+          <input type="button" id="btn-play" name="play" value="Play" />
+          <input type="button" id="btn-stop" name="stop" value="Stop" />
+          <label id="label-speed" for="speed"
+            >Speed: <output id="value-speed"></output
+          ></label>
+          <input
+            type="range"
+            id="speed"
+            name="speed"
+            min="1"
+            max="9"
+            list="values"
+          />
+
+          <datalist id="values">
+            <option value="1"></option>
+            <option value="2"></option>
+            <option value="3"></option>
+            <option value="4"></option>
+            <option value="5"></option>
+            <option value="6"></option>
+            <option value="7"></option>
+            <option value="8"></option>
+            <option value="9"></option>
+          </datalist>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

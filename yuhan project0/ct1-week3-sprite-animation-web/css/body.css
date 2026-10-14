@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    font-family:'Andale Mono';
+}
+#image-container{
+    display:flex;
+    justify-content: center;
+}
+
+#label-speed {
+    width:8ch;
+    display:inline-block;
+}
+#intro {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35vw;
+    height: 100vh;
+    padding: 4rem 3rem;
+    z-index: 10;
+    color: #ffffff;
+}
+#intro h1 {
+    font-size: 3rem;
+}
+#intro p {
+    font-size: 1.5rem;
+}

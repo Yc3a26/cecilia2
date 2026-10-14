@@ -1,0 +1,152 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-family:'Andale Mono';
+}
+#full-toothbrush{
+    position: absolute;
+    width: 1000px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+#head, #battery, #motor, #casing, #bristles{
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+}
+
+#full-toothbrush img{
+    width: 1000px;
+    height: auto;
+}
+
+#casing{
+    z-index: 3;
+}
+#handle{
+    position: relative;
+}
+#head,#bristles{
+    transition: transform 0.7s;
+}
+#full-toothbrush.apart #head,
+#full-toothbrush.apart #bristles{
+    transform: translate(-80px, -80px);
+}
+#full-toothbrush.apart #bristles.apart {
+    transform: translate(20px, -80px);
+}
+#head{
+    z-index: 1;
+    pointer-events: auto;
+}
+#head, #bristles{
+    left: 4px;
+}
+#brushhead-info{
+    position: absolute;
+    top: 120px;
+    right: 30px;
+    width: 260px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(77, 75, 75, 0.7);
+    border: 1px solid rgb(252, 252, 252);
+    line-height: 1.5;
+    z-index: 10;
+}
+
+#bristles.apart{ 
+    transform: translate(100px, 0px);
+}
+#bristles{
+    z-index: 4;
+    pointer-events: auto;
+    clip-path: inset(12% 72% 74% 18%);
+    cursor: pointer;
+}
+#bristles-info{
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    width: 260px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(77, 75, 75, 0.7);
+    border: 1px solid rgb(252, 252, 252);
+    line-height: 1.5;
+    z-index: 10;
+}
+#casing{
+    transition: transform 0.7s;
+}
+#casing.apart{
+    transform: translate(90px, -150px);
+}
+#casing{
+    pointer-events: auto;
+    clip-path: inset(36% 23% 11% 35%);
+    cursor: pointer;
+}
+#casing-info{
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    width: 260px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(77, 75, 75, 0.7);
+    border: 1px solid rgb(252, 252, 252);
+    line-height: 1.5;
+    z-index: 10;
+}
+#motor{
+    transition: transform 0.7s;
+}
+#motor.apart{
+    transform: translate(-100px, 100px);
+}
+#motor-info{
+    position: absolute;
+    left: 30px;
+    top: 150px;
+    width: 260px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(77, 75, 75, 0.7);
+    border: 1px solid rgb(252, 252, 252);
+    line-height: 1.5;
+    z-index: 10;
+}
+#motor{
+    pointer-events: auto;
+    clip-path: inset(39% 51% 49% 39%);
+    cursor: pointer;
+    z-index: 2;
+}
+#battery{
+    transition: transform 0.7s;
+}
+#battery.apart{
+    transform: translate(-100px, 100px);
+}
+#battery{
+    pointer-events: auto;
+    clip-path: inset(60% 29% 20% 55%);
+    cursor: pointer;
+    z-index: 2;
+}
+#battery-info{
+    position: absolute;
+    left: 60px;
+    bottom: 30px;
+    width: 420px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(77, 75, 75, 0.7);
+    border: 1px solid rgb(252, 252, 252);
+    line-height: 1.5;
+    z-index: 10;
+}

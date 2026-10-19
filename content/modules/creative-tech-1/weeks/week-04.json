@@ -1,13 +1,17 @@
 {
-  "week": 4,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
+  "method": "I made my website in VS Code with HTML, CSS and JavaScript. I drew pixel parts of the toothbrush and placed them in layers. When a user clicks a part, it moves away and a fact card appears. I also made a short sprite animation to show tooth cleaning.",
+  "related_work": "I used Fang et al. (2023), which discusses microplastics released from toothbrush bristles; Lyne et al. (2020), which compares the environmental impact of manual and electric toothbrushes; and Waste Management World (2025), about electronic waste from electric toothbrushes. I also looked at other students’ websites during the project sharing. Their layouts and interactions helped me think about how audiences discover information.",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-10-20T00:06:00.000+01:00",
+  "results_discussion": "This week I completed the main parts of my Project 0. I made the toothbrush break into pieces, including the brush head, bristles, casing, motor and battery. Each piece reveals information about materials, waste or health. I learned that a small interaction can make people look more carefully than a long piece of text. The pixel style makes the page feel simple and playful, but the facts make the topic more serious.\nI also visited Bristol with friends. We walked around the city, made a small installation and later viewed other people’s websites. Many of them were clear, playful and well organised. This showed me that a website can communicate an idea through the user’s actions, not only through writing.",
+  "week": 4,
+  "title": "week4 in CT",
+  "images": [
+    "assets/images/img_3221.jpg",
+    "assets/images/img_3512.jpg",
+    "assets/images/img_3529.jpg"
+  ],
+  "introduction": "This week, I finished Project 0, an interactive website about electric toothbrushes. My question was: what are the good things and the hidden bad things behind an electric toothbrush? It can help people clean their teeth, but it also uses plastic, batteries and other materials that can create waste. My website shows both sides through clickable parts and research facts.",
+  "video": ""
 }

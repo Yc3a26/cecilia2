@@ -15,6 +15,16 @@
       "images": [
         "assets/images/截屏2026-10-12-21.03.20.png"
       ]
+    },
+    {
+      "title": "Complete Project 0 \"A Clean Smile, A Hidden Story\"",
+      "description": "This project is an interactive website about the good and bad sides of electric toothbrushes. Electric toothbrushes can help people clean their teeth, but they also use plastic, batteries and other materials that can create waste. I made pixel images of the toothbrush parts, including the brush head, bristles, casing, motor and battery. Users can click the parts to take the toothbrush apart and read facts about them. I used HTML, CSS and JavaScript to make the interaction and animation.  My aim was to help people understand the story behind an electric toothbrush, including both its benefits and its hidden costs.",
+      "images": [
+        "assets/images/截屏2026-10-20-10.55.11.png",
+        "assets/images/截屏2026-10-20-10.55.20.png",
+        "assets/images/截屏2026-10-20-10.55.45.png"
+      ],
+      "link": "https://yc3a26.github.io/project0/yuhan%20project0/"
     }
   ]
 }

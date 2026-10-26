@@ -1,13 +1,15 @@
 {
+  "method": "During the coding lessons, we followed the teacher’s examples to learn how interactive wbsites work. We learned that p5.js can draw shapes and make objects move on the screen. We also explored how a server can connect two computers. Instead of sending videos, the computers can share simple information, such as the position of an object.\nFor our Project 1, we discussed how to use these ideas. We plan to let one player control the vertical movement of a stone, while the other controls its horizontal movement. They must work together to put each stone in the right place. I also started planning the visual style of our website. I want to use a hand-drawn style, like a travel journal. Players will be able to choose different places, such as mountains, forests, lakes and snowy mountains. We hope these backgrounds will make the experience feel peaceful and warm.e",
+  "related_work": "In the coding lessons, we learned about p5.js. It is a JavaScript library that helps people create drawings, animations and interactive websites. We also learned about Node.js and Socket.io. Node.js allows us to run a server, while Socket.io helps two websites share information in real time.\nBoyd also introduced the idea of The Duet. It means two people can work together through technology, even when they are in different places. I think this idea connects closely to our Wishing Stones project because we want two people to create something together, rather than work alone.",
+  "references": "",
+  "conclusion_future_work": "This week, I learned more about p5.js, Node.js and Socket.io. These lessons helped me understand how two people can interact through different computers. I also realised that coding is not only about making objects move. It can also help people communicate and create emotional connections.\nNext week, I want to practise p5.js and learn how to connect two computers. For our project, we need to test the stone movement and make sure both players can control the same stone. We also want to continue working on the hand-drawn backgrounds and the design of the stones. I hope our final project can turn a simple action into a meaningful experience that brings people closer together.",
+  "date": "2026-10-25T23:53:00.000+00:00",
+  "results_discussion": "The most difficult part for me was understanding how two computers could control the same object. In Project 0, I mainly used HTML, CSS and JavaScript to create interactions on one website. However, Project 1 is different because two people need to interact at the same time.\nAfter the lessons, I started to understand the basic idea. One computer sends information to a server, and the server shares it with the other computer. However, I still need more practice before I can use this in my own project. I also thought more about the meaning of our design. At first, stacking stones might look like a simple game. But we want it to be more than that. When two players control different directions, they must be patient and communicate with each other. Neither person can finish the task alone. I think this is the most important part of our project. We want to show that even when people are far apart, they can still support and care for each other through a small shared action.",
   "week": 5,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "title": "week 5 in CT coding (project 1)",
+  "images": [
+    "assets/images/未命名作品.jpg"
+  ],
+  "introduction": "This week, we started learning new coding skills for Project 1. We learned about p5.js and how two websites can communicate through a server. Unlike Project 0, Project 1 requires two people to interact with each other in real time.\nOur Project 1 is called \"Wishing Stones\"(maybe~). Even when we are far apart, we still wish each other well. In our project, two people in different places can stack stones together and make a wish. One person controls the up-and-down movement, while the other controls left and right. They need to communicate and work together to complete the stone tower. Our project is not about winning. It is about patience, cooperation and caring for each other.",
+  "video": ""
 }

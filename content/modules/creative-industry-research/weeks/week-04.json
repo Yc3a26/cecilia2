@@ -1,13 +1,13 @@
 {
-  "week": 4,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
+  "method": "In class, we worked in groups to read different chapters of Race After Technology. We discussed the main ideas and wrote simple definitions. I also thought about my own values and principles, and how they could guide my future creative projects.",
+  "related_work": "1.Technological Benevolence\nTechnological benevolence means using technology to help people and make life better. However, technology can still cause problems, even if people have good intentions. For example, AI can help companies choose workers, but it can also make unfair decisions.\n2.Algorithmic Neutrality\nAlgorithmic neutrality means that computer algorithms are expected to treat everyone fairly. However, algorithms can learn unfair ideas from data and make unfair decisions. For example, AI recruitment systems may treat people differently because of their race or gender.\n3.Race Correction\nRace correction means changing medical test results based on a person’s race. It is used because some people believe different races have different bodies. However, this can lead to unfair medical decisions. For example, Black workers may have more difficulty getting compensation because of these adjustments.\n4.Prison–Industrial Complex (PIC)\nThe prison–industrial complex means the connection between prisons, governments and companies. Some companies can make money from prisons and surveillance. This may make it harder to reduce the number of people in prison.\n\nIn class we discussed Ruha Benjamin’s book Race After Technology, which shows how technology can create unfair situations. We also learned about Cobalt Red by Siddharth Kara, which explores the human cost of cobalt mining. Neema Iyer’s ideas about digital extraction helped me understand how companies can use people’s labour, data and natural resources.",
+  "references": "",
+  "conclusion_future_work": "For my future project, I want to create an interactive installation for children in hospital waiting rooms. This class reminded me that I should think about safety, accessibility and different children’s needs.",
+  "date": "2026-10-25T23:22:00.000+00:00",
+  "results_discussion": "I learned that technology is not always fair. Sometimes, it can make existing problems worse. For example, some sensors do not work equally well for different skin colours. This made me realise that designers need to think about different users. I also learned that making technology can affect workers and the environment. Before this class, I did not think much about where materials come from. Now I think it is important to understand the hidden costs behind technology.",
+  "week": 5,
+  "title": "week 5",
   "images": [],
-  "video": "",
-  "references": ""
+  "introduction": "This week, we learned about colonialism, extraction and unfairness in technology. I started to think about where our technology comes from and who may be affected by it. I also learned that AI can have bias. I want to explore these problems and think about how to make my own work more responsible.",
+  "video": ""
 }

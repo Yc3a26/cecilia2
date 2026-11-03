@@ -32,6 +32,17 @@
       "images": [
         "assets/images/未命名作品.jpg"
       ]
+    },
+    {
+      "description": "This week, I continued drawing the cover, backgrounds, and stone guide book for May It Stay. I also built the opening pages, including the clickable title, scene selection, transitions, and stone guide. After Luo Rong built and tested the stone-stacking prototype, I added it to my project and replaced the test shapes with our hand-drawn stone images.Next, we plan to draw a short celebration animation and add a warm message for both players. I also want to improve the page size and check that the stones look balanced when they are stacked.",
+      "title": "final project 1",
+      "images": [
+        "assets/images/截屏2026-11-03-01.17.36.png",
+        "assets/images/未命名作品-2.jpg",
+        "assets/images/未命名作品-1.jpg",
+        "assets/images/截屏2026-11-03-01.17.04.png",
+        "assets/images/截屏2026-11-03-01.17.01.png"
+      ]
     }
   ]
 }

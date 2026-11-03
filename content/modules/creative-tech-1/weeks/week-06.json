@@ -1,13 +1,21 @@
 {
-  "week": 6,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
+  "method": "I started by drawing the cover, four backgrounds, a book icon. I used HTML, CSS, and JavaScript to build the opening page. Players can click the title, choose a place, and open a stone guide to read about each stone.\nLuo Rong developed and tested the hand controls and stone-stacking prototype. I then brought this code into my page and replaced the test shapes with our stone drawings. During testing, I adjusted the stone sizes, moved the camera preview, and made the status text smaller. I also hid the green platform drawing so that players could see the platform in my background instead.",
+  "related_work": "Our project takes inspiration from stacking stones as a way to make a wish. I wanted to bring this quiet activity into a shared online space. Each stone carries a meaning, such as trust, care, or hope. The two players need to communicate and work together, making the activity a small shared ritual.",
+  "references": "",
   "conclusion_future_work": "",
-  "images": [],
-  "video": "",
-  "references": ""
+  "date": "2026-11-03T01:05:00.000+00:00",
+  "results_discussion": "We tested the game on separate devices and managed to stack all seven stones. Seeing our drawings move through the hand controls helped the project feel closer to our original idea.\nHowever, the hand tracking sometimes lost the player’s hand, which made the stone stop moving. The page also needed scrolling on some screen sizes. These problems showed me that adding working code to a visual design still needs careful testing.\nThe success message was too small to notice. Next, I plan to draw a short celebration animation and add a warm message for both players. I also want to improve the page size and check that the stones look balanced when they are stacked.",
+  "week": 6,
+  "title": "week 6 ",
+  "images": [
+    "assets/images/未命名作品-1.jpg",
+    "assets/images/未命名作品-2.jpg",
+    "assets/images/未命名作品-3.jpg",
+    "assets/images/未命名作品.jpg",
+    "assets/images/截屏2026-11-03-01.17.36.png",
+    "assets/images/截屏2026-11-03-01.17.04.png",
+    "assets/images/截屏2026-11-03-01.17.01.png"
+  ],
+  "introduction": "This week, I continued drawing the cover, backgrounds, and stone guide book for May It Stay. I also built the opening pages, including the clickable title, scene selection, transitions, and stone guide. After Luo Rong built and tested the stone-stacking prototype, I added it to my project and replaced the test shapes with our hand-drawn stone images.",
+  "video": ""
 }

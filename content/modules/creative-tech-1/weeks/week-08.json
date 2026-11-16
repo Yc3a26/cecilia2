@@ -1,13 +1,13 @@
 {
+  "method": "In class, I experimented with a projector, adjusting its position and keystone settings to fit a physical object. I also learned the basics of TouchDesigner, connecting nodes such as Movie File In, Transform and Null to manipulate visual content.",
+  "related_work": "Several artists and projects introduced in class inspired my thinking. Marshmallow Laser Feast's We Live in an Ocean of Air demonstrates how immersive technology can connect audiences with nature. Michael Naimark's early projection mapping experiments explore the relationship between projected images and physical space. I was also interested in Draw Me Close, which explore immersive and interactive experiences.",
+  "references": "",
+  "conclusion_future_work": "For my future project, I would like to explore projection mapping as a way of transforming physical objects through digital images. I plan to experiment with TouchDesigner, moving visuals and different projection surfaces. My next step is to develop a clear concept, test different visual effects and explore how the audience might interact with the work.",
+  "date": "2026-11-16T20:33:00.000+00:00",
+  "results_discussion": "This session helped me understand that projection mapping is not simply about displaying images, but about creating a relationship between digital visuals and physical surfaces. I found TouchDesigner's node-based workflow interesting because it allows visual experiments without writing extensive code. I would like to explore how moving images, colour and sound could make future projection mapping projects more interactive and immersive.",
   "week": 8,
-  "title": "",
-  "date": "",
-  "introduction": "",
-  "related_work": "",
-  "method": "",
-  "results_discussion": "",
-  "conclusion_future_work": "",
+  "title": "week 8",
+  "introduction": "This week, I explored how projection mapping and interactive digital technologies can transform physical objects into visual experiences. I was particularly interested in how artists combine technology, space and storytelling. I also began learning TouchDesigner and how node-based programming can be used to create and manipulate visual content.",
   "images": [],
-  "video": "",
-  "references": ""
+  "video": ""
 }
